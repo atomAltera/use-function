@@ -1,0 +1,34 @@
+{
+  "name": "use-function",
+  "version": "1.0.0",
+  "description": "React hook for async function calls",
+  "main": "dist/index.js",
+  "types": "dist/index.d.ts",
+  "scripts": {
+    "build": "tsc",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/atomAltera/use-function.git"
+  },
+  "keywords": [
+    "react",
+    "hook",
+    "async",
+    "call",
+    "use",
+    "function",
+    "useFunction"
+  ],
+  "author": "Konstantin Alikhanov nuclight@gmail.com",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/atomAltera/use-function/issues"
+  },
+  "homepage": "https://github.com/atomAltera/use-function#readme",
+  "devDependencies": {
+    "@types/react": "^16.8.8",
+    "typescript": "^3.3.3333"
+  }
+}
